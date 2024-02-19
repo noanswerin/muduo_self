@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Acceptor.o -c /home/noanswerin/project/muduo_self/Acceptor.cc",
+  "file": "/home/noanswerin/project/muduo_self/Acceptor.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Buffer.o -c /home/noanswerin/project/muduo_self/Buffer.cc",
+  "file": "/home/noanswerin/project/muduo_self/Buffer.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Channel.o -c /home/noanswerin/project/muduo_self/Channel.cc",
+  "file": "/home/noanswerin/project/muduo_self/Channel.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/CurrentThread.o -c /home/noanswerin/project/muduo_self/CurrentThread.cc",
+  "file": "/home/noanswerin/project/muduo_self/CurrentThread.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/DefaultPoller.o -c /home/noanswerin/project/muduo_self/DefaultPoller.cc",
+  "file": "/home/noanswerin/project/muduo_self/DefaultPoller.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/EPollPoller.o -c /home/noanswerin/project/muduo_self/EPollPoller.cc",
+  "file": "/home/noanswerin/project/muduo_self/EPollPoller.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoop.o -c /home/noanswerin/project/muduo_self/EventLoop.cc",
+  "file": "/home/noanswerin/project/muduo_self/EventLoop.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoopThread.o -c /home/noanswerin/project/muduo_self/EventLoopThread.cc",
+  "file": "/home/noanswerin/project/muduo_self/EventLoopThread.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoopThreadPool.o -c /home/noanswerin/project/muduo_self/EventLoopThreadPool.cc",
+  "file": "/home/noanswerin/project/muduo_self/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/InetAddress.o -c /home/noanswerin/project/muduo_self/InetAddress.cc",
+  "file": "/home/noanswerin/project/muduo_self/InetAddress.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Logger.o -c /home/noanswerin/project/muduo_self/Logger.cc",
+  "file": "/home/noanswerin/project/muduo_self/Logger.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Poller.o -c /home/noanswerin/project/muduo_self/Poller.cc",
+  "file": "/home/noanswerin/project/muduo_self/Poller.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Socket.o -c /home/noanswerin/project/muduo_self/Socket.cc",
+  "file": "/home/noanswerin/project/muduo_self/Socket.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/TcpConnection.o -c /home/noanswerin/project/muduo_self/TcpConnection.cc",
+  "file": "/home/noanswerin/project/muduo_self/TcpConnection.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/TcpServer.o -c /home/noanswerin/project/muduo_self/TcpServer.cc",
+  "file": "/home/noanswerin/project/muduo_self/TcpServer.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Thread.o -c /home/noanswerin/project/muduo_self/Thread.cc",
+  "file": "/home/noanswerin/project/muduo_self/Thread.cc"
+},
+{
+  "directory": "/home/noanswerin/project/muduo_self/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Timestamp.o -c /home/noanswerin/project/muduo_self/Timestamp.cc",
+  "file": "/home/noanswerin/project/muduo_self/Timestamp.cc"
+}
+]
